@@ -10,7 +10,8 @@
             <br>
             ※顔以外(首、髪の毛、背景など)は3D推定されていないので不自然に3D変形してしまいます。<br>
             "_(画像ファイル名).ply"に3Dメッシュを出力するので、必要に応じてBlenderなどで修正してください。<br>
-            <img src="images/face3d.svg">
+            <img src="images/Face3D.png"><br>
+            <img src="images/Face3D.gif">
         </p>
         <h2>環境構築方法</h2>
         <p>
